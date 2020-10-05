@@ -1,0 +1,38 @@
+*{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+	font-size: 50px;
+	background-color: #0563df;
+	display: block;
+    text-align: center;
+    font-weight: bolder;
+	margin: 0.5em;
+}
+
+song{
+	display: block;
+	margin: 0.5em;
+	background-color: #a5aeb3;
+	text-align: center;
+}
+
+artist, title, genre, year {
+    display: block;
+    text-align: center;
+}
+
+ title {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+artist{
+    font-size: 27px;
+    font-style: italic ;
+}
+genre, year{
+    font-size: 20px;
+
+}

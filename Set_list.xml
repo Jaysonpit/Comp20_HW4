@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "xml_style.css" ?>
+<setlist>
+<header> Set List </header>
+    <song>
+        <title>All Along the Watchtower
+        </title>
+        <artist>Jimmy Hendrix
+        </artist>
+        <genre>Rock
+        </genre>
+        <year>1968
+        </year>
+
+    </song>
+
+    <song>
+        <title>Jamming</title>
+        <artist>Bob Marley </artist>
+        <genre>Reggae</genre>
+        <year>1977</year>
+
+    </song>
+
+   <song>
+        <title>Take You There</title>
+        <artist>Sean Kingston</artist>
+        <genre>Pop</genre>
+        <year>2007
+        </year>
+
+    </song>
+
+    <song>
+        <title>This Is How We Do It</title>
+        <artist>Montell Jordan</artist>
+        <genre>R&amp;B</genre>
+        <year>1995</year>
+
+    </song>
+    <song>
+        <title>Dior</title>
+        <artist>Pop Smoke</artist>
+        <genre>Rap</genre>
+        <year>2019</year>
+
+    </song>
+
+    <song>
+        <title>Halo</title>
+        <artist>Beyonce</artist>
+        <genre>Pop </genre>
+        <year>2008</year>
+
+    </song>
+
+    <song>
+        <title> Ride Wit Me</title>
+        <artist>Nelly</artist>
+        <genre>Hip-Hop</genre>
+        <year>2000</year>
+
+    </song>
+
+    <song>
+        <title>Thank Me Now</title>
+        <artist>Drake</artist>
+        <genre>Hip-Hop</genre>
+        <year>2010</year>
+
+    </song>
+
+
+    <song>
+        <title>Yellow Submarine </title>
+        <artist>The Beatles</artist>
+        <genre>Rock</genre>
+        <year>1966</year>
+
+    </song>
+
+    <song>
+        <title>Macarena</title>
+        <artist>Los del Río</artist>
+        <genre>Latin Pop</genre>
+        <year>1993</year>
+
+    </song>
+
+</setlist>
